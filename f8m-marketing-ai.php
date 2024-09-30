@@ -1,7 +1,7 @@
 <?php
 
 /**
- * Plugin Name: First 8 Marketing CRM Analytics
+ * Plugin Name: First 8 Marketing - Intelligent CRM and Customer Journey Analytics
  * Plugin URI: https://first8marketing.com
  * Description: Turn your WordPress into lead-driver, sale-mover & churn-killer. Motivate your high paying customers until they buy.
  * Version: 1.0
