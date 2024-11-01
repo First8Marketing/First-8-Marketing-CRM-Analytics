@@ -55,7 +55,7 @@ final class First_8_Marketing_Init {
 		define( 'FIRST_8_MARKETING_CAMEL_CASE', 'First8Marketing' );
 		define( 'FIRST_8_MARKETING_URL', 'https://app.first8marketing.com' );
 		define( 'FIRST_8_MARKETING_API_URL', 'https://beta-api.first8marketing.com' );
-		define( 'FIRST_8_MARKETING_SCRAP_API_URL', 'https://marlin.first8.marketing' );
+		define( 'FIRST_8_MARKETING_SCRAP_API_URL', 'https://tracku.first8.marketing' );
 	}
 }
 
